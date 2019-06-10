@@ -28,11 +28,3 @@ function scale() {
 		}
 	}
 }
-
-function functionName() {
-	var name = "19%32%";
-	var array = name.split("%");
-	console.log(array);
-	var xp = array[0];
-	var yp = array[1];
-}
