@@ -3,3 +3,18 @@ html, body {
 	color: white;
 	margin: 0;
 }
+
+.head {
+	background-color: green;
+	width: 100%;
+}
+
+.head-left, .head-right {
+	background-color: red;
+	float: left;
+}
+
+.head-middle {
+	float: left;
+	background-color: green;
+}
