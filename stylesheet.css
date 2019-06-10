@@ -18,3 +18,8 @@ html, body {
 	float: left;
 	background-color: green;
 }
+
+.head-left-text-lines {
+	margin: 0;
+	padding: 0;
+}
